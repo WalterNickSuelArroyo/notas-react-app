@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/notas-react-app/build/static/css/main.b043cfaa.css",
-    "main.js": "/notas-react-app/build/static/js/main.5300ee70.js",
+    "main.js": "/notas-react-app/build/static/js/main.b203ecda.js",
     "index.html": "/notas-react-app/build/index.html",
     "main.b043cfaa.css.map": "/notas-react-app/build/static/css/main.b043cfaa.css.map",
-    "main.5300ee70.js.map": "/notas-react-app/build/static/js/main.5300ee70.js.map"
+    "main.b203ecda.js.map": "/notas-react-app/build/static/js/main.b203ecda.js.map"
   },
   "entrypoints": [
     "static/css/main.b043cfaa.css",
-    "static/js/main.5300ee70.js"
+    "static/js/main.b203ecda.js"
   ]
 }

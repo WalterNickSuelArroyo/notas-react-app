@@ -10,3 +10,4 @@ const ItemNota = ({note}) => {
 }
 
 export default ItemNota
+

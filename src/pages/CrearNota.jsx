@@ -34,3 +34,4 @@ const CrearNota = ({setNotes}) => {
 }
 
 export default CrearNota
+
