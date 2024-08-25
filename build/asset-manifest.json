@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/notas-react-app/build/static/css/main.b043cfaa.css",
-    "main.js": "/notas-react-app/build/static/js/main.b203ecda.js",
-    "index.html": "/notas-react-app/build/index.html",
-    "main.b043cfaa.css.map": "/notas-react-app/build/static/css/main.b043cfaa.css.map",
-    "main.b203ecda.js.map": "/notas-react-app/build/static/js/main.b203ecda.js.map"
+    "main.css": "/notas-react-app/static/css/main.b043cfaa.css",
+    "main.js": "/notas-react-app/static/js/main.b203ecda.js",
+    "index.html": "/notas-react-app/index.html",
+    "main.b043cfaa.css.map": "/notas-react-app/static/css/main.b043cfaa.css.map",
+    "main.b203ecda.js.map": "/notas-react-app/static/js/main.b203ecda.js.map"
   },
   "entrypoints": [
     "static/css/main.b043cfaa.css",
